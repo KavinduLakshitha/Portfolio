@@ -25,21 +25,18 @@ function About() {
                 <h1 className="aboutme__Title">I'm Kavindu Marasinghe</h1>
                 <div className="aboutme__desc">
                   👨‍💻I am a 3rd-year undergraduate at SLIIT, doing a
-                  specialization in BSc(hons) in Information Technology. I've
-                  done a few ReactJS-based projects alone and as group projects
-                  at the uni. I'm trying to learn new technologies such as
-                  NextJs, Tailwind CSS and Web 3.0 development. <br />
-                  <br />
+                  specialization in BSc(hons) in Information Technology. I have some valuable experience in ReactJS, React Native, and Next.js, gained through both academic group projects and a previous internship. During my internship <br /> Additionally, I am proficient in using Tailwind CSS, Material UI, and other related technologies to deliver effective and polished solutions.
+                  <br /><br />
                   When I am not coding or studying, I'd like to introduce my
                   self as an artist. I mostly do portrait arts as my hobby as
                   well as a freelancer.
                 </div>
-                <br />
+                
                 <br />
                 <span className="about__Choices">
                   My preffered weapons of choice👇
                 </span>
-                <br />
+                
                 <ul class="list-group">
                   <li class="list-group-item">
                     <i class="bi bi-check-circle-fill"></i>
@@ -51,7 +48,11 @@ function About() {
                   </li>
                   <li class="list-group-item">
                     <i class="bi bi-check-circle-fill"></i>
-                    &nbsp;&nbsp;&nbsp;Bootstrap/Material UI
+                    &nbsp;&nbsp;&nbsp;React Native
+                  </li>
+                  <li class="list-group-item">
+                    <i class="bi bi-check-circle-fill"></i>
+                    &nbsp;&nbsp;&nbsp;Bootstrap / Material UI / Tailwind CSS
                   </li>
                   <li class="list-group-item">
                     <i class="bi bi-check-circle-fill"></i>

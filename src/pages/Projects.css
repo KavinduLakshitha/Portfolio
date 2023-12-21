@@ -26,7 +26,7 @@
   margin-top: 50px;
   margin-bottom: 50px;
   padding-top: 0px;
-  padding-bottom: 80px;
+  padding-bottom: 50px;
 }
 
 .left,
@@ -69,6 +69,7 @@
   font-size: 18px;
   float: left;
   margin-top: 20px;
+  margin-bottom: 20px;
   text-decoration: none;
   border: 1px solid white;
   padding: 10px;
@@ -88,7 +89,7 @@
 }
 
 .list-group {
-  margin-top: 60px;
+  margin-top: 30px;
   margin-left: -15px;
 }
 
@@ -117,6 +118,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
 
 @media (max-width: 768px) {
   .projects__bigTopic {

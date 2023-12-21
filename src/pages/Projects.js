@@ -161,9 +161,9 @@ function Projects() {
       <div className="container item__2">
         <div className="row g-0">
           <div className="col-md-6 g-0">
-            <div className="right d-flex justify-content-center ">
+            <div className="right d-flex justify-content-center" >
               <div className="projects__desc">
-                <h1 className="project__itemsTitle">Netflix-Ish</h1>
+                <h1 className="project__itemsTitle" >Netflix-Ish</h1>
                 Netflix-ish is a cloned version of the popular streaming service
                 Netflix. I have used ReactJS, Redux, TMDB ( The Movie Database )
                 and firebase to build this application.
