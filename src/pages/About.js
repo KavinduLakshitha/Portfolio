@@ -24,7 +24,7 @@ function About() {
                 <br />
                 <h1 className="aboutme__Title">I'm Kavindu Marasinghe</h1>
                 <div className="aboutme__desc">
-                  👨‍💻I am a 3rd-year undergraduate at SLIIT, doing a
+                  👨‍💻I am a 4th year undergraduate at SLIIT, doing a
                   specialization in BSc(hons) in Information Technology. I have some valuable experience in ReactJS, React Native, and Next.js, gained through both academic group projects and a previous internship. During my internship <br /> Additionally, I am proficient in using Tailwind CSS, Material UI, and other related technologies to deliver effective and polished solutions.
                   <br /><br />
                   When I am not coding or studying, I'd like to introduce my
