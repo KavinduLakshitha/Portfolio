@@ -33,12 +33,10 @@
   font-size: 20px;
   width: 90%;
   text-align: justify;
-  text-justify: inter-word;
 }
 
 .aboutme__desc {
   text-align: justify;
-  text-justify: inter-word;
 }
 
 .sm-buttons {
@@ -111,7 +109,7 @@
 
   .aboutme__desc {
     text-align: justify;
-    text-justify: inter-word;
+
     margin-bottom: 20px;
     font-size: 16px;
   }

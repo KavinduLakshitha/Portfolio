@@ -33,7 +33,6 @@
   font-size: 1.245rem;
   line-height: 1.9rem;
   animation: 1s ease-in-out 0s 1 slideInFromBottom;
-  text-justify: inter-word;
 }
 
 @keyframes slideInFromBottom {
